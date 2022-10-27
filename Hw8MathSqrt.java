@@ -4,6 +4,8 @@ package Algorithms;
 •The Result could be the exactResult +- 0.01
 - Calculate Time Complexity  */
 
+// O(n)
+
 public class Hw8MathSqrt {
 
 	public static void main(String[] args) {
